@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 79728d782cc94dc78c978c814a37214e
+timeCreated: 1568049197
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "SKRANJI-BOLD"
+  fontNames:
+  - Skranji
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

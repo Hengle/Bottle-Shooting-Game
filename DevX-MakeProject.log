@@ -1,0 +1,208 @@
+Resolve4: UnityEngine
+Resolve4: UnityEngine.CoreModule
+Resolve4: mscorlib
+[129: PlayerSettings] string.size 1818391920 > 10_000_000 \macAppStoreCategory, buf.Position=360
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 360 != len: 675 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+[141: BuildSettings] string.size 3183302629 > 10_000_000 \m_Version, buf.Position=2932
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 2932 != len: 19628 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+Resolve4: UnityEngine.UI
+Resolve4: DOTween
+Resolve4: UnityEngine.AudioModule
+Resolve4: UnityEngine.TextRenderingModule
+Scene analize:LEVEL25.unity
+GameObject: 1789957946532028314 !!!!  link to missed asset: {FileID: 1789957946532028765} tag: 1789957946532028765}
+Bad links count: 1
+Resolve4: UnityEngine.Physics2DModule
+Scene analize:LEVEL29.unity
+GameObject: 1789957946532028338 !!!!  link to missed asset: {FileID: 1789957946532028815} tag: 1789957946532028815}
+GameObject: 1789957946532028359 !!!!  link to missed asset: {FileID: 1789957946532028835} tag: 1789957946532028835}
+Bad links count: 2
+Scene analize:LEVEL_SELECT_new.unity
+GameObject: 1789957946532028484 !!!!  link to missed asset: {FileID: 1789957946532031345} tag: 1789957946532031345}
+GameObject: 1789957946532028978 !!!!  link to missed asset: {FileID: 1789957946532032085} tag: 1789957946532032085}
+GameObject: 1789957946532029021 !!!!  link to missed asset: {FileID: 1789957946532032155} tag: 1789957946532032155}
+GameObject: 1789957946532028270 !!!!  link to missed asset: {FileID: 1789957946532031011} tag: 1789957946532031011}
+GameObject: 1789957946532029001 !!!!  link to missed asset: {FileID: 1789957946532032126} tag: 1789957946532032126}
+GameObject: 1789957946532028630 !!!!  link to missed asset: {FileID: 1789957946532031561} tag: 1789957946532031561}
+GameObject: 1789957946532029122 !!!!  link to missed asset: {FileID: 1789957946532032312} tag: 1789957946532032312}
+GameObject: 1789957946532028946 !!!!  link to missed asset: {FileID: 1789957946532032042} tag: 1789957946532032042}
+GameObject: 1789957946532028991 !!!!  link to missed asset: {FileID: 1789957946532032108} tag: 1789957946532032108}
+GameObject: 1789957946532028902 !!!!  link to missed asset: {FileID: 1789957946532031969} tag: 1789957946532031969}
+GameObject: 1789957946532029074 !!!!  link to missed asset: {FileID: 1789957946532032237} tag: 1789957946532032237}
+GameObject: 1789957946532028459 !!!!  link to missed asset: {FileID: 1789957946532031305} tag: 1789957946532031305}
+GameObject: 1789957946532028700 !!!!  link to missed asset: {FileID: 1789957946532031665} tag: 1789957946532031665}
+GameObject: 1789957946532028734 !!!!  link to missed asset: {FileID: 1789957946532031714} tag: 1789957946532031714}
+GameObject: 1789957946532028759 !!!!  link to missed asset: {FileID: 1789957946532031758} tag: 1789957946532031758}
+GameObject: 1789957946532028968 !!!!  link to missed asset: {FileID: 1789957946532032071} tag: 1789957946532032071}
+GameObject: 1789957946532028933 !!!!  link to missed asset: {FileID: 1789957946532032021} tag: 1789957946532032021}
+GameObject: 1789957946532028492 !!!!  link to missed asset: {FileID: 1789957946532031359} tag: 1789957946532031359}
+GameObject: 1789957946532029067 !!!!  link to missed asset: {FileID: 1789957946532032226} tag: 1789957946532032226}
+GameObject: 1789957946532028842 !!!!  link to missed asset: {FileID: 1789957946532031881} tag: 1789957946532031881}
+GameObject: 1789957946532028629 !!!!  link to missed asset: {FileID: 1789957946532031558} tag: 1789957946532031558}
+GameObject: 1789957946532028903 !!!!  link to missed asset: {FileID: 1789957946532031972} tag: 1789957946532031972}
+GameObject: 1789957946532029029 !!!!  link to missed asset: {FileID: 1789957946532032169} tag: 1789957946532032169}
+GameObject: 1789957946532028563 !!!!  link to missed asset: {FileID: 1789957946532031458} tag: 1789957946532031458}
+GameObject: 1789957946532029123 !!!!  link to missed asset: {FileID: 1789957946532032315} tag: 1789957946532032315}
+GameObject: 1789957946532028594 !!!!  link to missed asset: {FileID: 1789957946532031507} tag: 1789957946532031507}
+GameObject: 1789957946532028554 !!!!  link to missed asset: {FileID: 1789957946532031445} tag: 1789957946532031445}
+GameObject: 1789957946532029179 !!!!  link to missed asset: {FileID: 1789957946532032413} tag: 1789957946532032413}
+GameObject: 1789957946532028392 !!!!  link to missed asset: {FileID: 1789957946532031200} tag: 1789957946532031200}
+GameObject: 1789957946532028626 !!!!  link to missed asset: {FileID: 1789957946532031551} tag: 1789957946532031551}
+GameObject: 1789957946532028366 !!!!  link to missed asset: {FileID: 1789957946532031161} tag: 1789957946532031161}
+GameObject: 1789957946532028450 !!!!  link to missed asset: {FileID: 1789957946532031290} tag: 1789957946532031290}
+GameObject: 1789957946532028299 !!!!  link to missed asset: {FileID: 1789957946532031053} tag: 1789957946532031053}
+GameObject: 1789957946532029078 !!!!  link to missed asset: {FileID: 1789957946532032247} tag: 1789957946532032247}
+GameObject: 1789957946532029063 !!!!  link to missed asset: {FileID: 1789957946532032218} tag: 1789957946532032218}
+GameObject: 1789957946532028452 !!!!  link to missed asset: {FileID: 1789957946532031294} tag: 1789957946532031294}
+GameObject: 1789957946532029100 !!!!  link to missed asset: {FileID: 1789957946532032280} tag: 1789957946532032280}
+GameObject: 1789957946532028385 !!!!  link to missed asset: {FileID: 1789957946532031187} tag: 1789957946532031187}
+GameObject: 1789957946532029169 !!!!  link to missed asset: {FileID: 1789957946532032391} tag: 1789957946532032391}
+GameObject: 1789957946532028435 !!!!  link to missed asset: {FileID: 1789957946532031265} tag: 1789957946532031265}
+GameObject: 1789957946532028487 !!!!  link to missed asset: {FileID: 1789957946532031350} tag: 1789957946532031350}
+GameObject: 1789957946532029065 !!!!  link to missed asset: {FileID: 1789957946532032222} tag: 1789957946532032222}
+GameObject: 1789957946532028588 !!!!  link to missed asset: {FileID: 1789957946532031497} tag: 1789957946532031497}
+GameObject: 1789957946532028769 !!!!  link to missed asset: {FileID: 1789957946532031772} tag: 1789957946532031772}
+GameObject: 1789957946532028706 !!!!  link to missed asset: {FileID: 1789957946532031674} tag: 1789957946532031674}
+GameObject: 1789957946532028615 !!!!  link to missed asset: {FileID: 1789957946532031534} tag: 1789957946532031534}
+GameObject: 1789957946532028661 !!!!  link to missed asset: {FileID: 1789957946532031603} tag: 1789957946532031603}
+GameObject: 1789957946532028294 !!!!  link to missed asset: {FileID: 1789957946532031046} tag: 1789957946532031046}
+GameObject: 1789957946532028932 !!!!  link to missed asset: {FileID: 1789957946532032018} tag: 1789957946532032018}
+GameObject: 1789957946532028496 !!!!  link to missed asset: {FileID: 1789957946532031367} tag: 1789957946532031367}
+GameObject: 1789957946532028848 !!!!  link to missed asset: {FileID: 1789957946532031890} tag: 1789957946532031890}
+GameObject: 1789957946532028931 !!!!  link to missed asset: {FileID: 1789957946532032015} tag: 1789957946532032015}
+GameObject: 1789957946532028683 !!!!  link to missed asset: {FileID: 1789957946532031636} tag: 1789957946532031636}
+GameObject: 1789957946532028941 !!!!  link to missed asset: {FileID: 1789957946532032033} tag: 1789957946532032033}
+GameObject: 1789957946532028994 !!!!  link to missed asset: {FileID: 1789957946532032117} tag: 1789957946532032117}
+GameObject: 1789957946532028300 !!!!  link to missed asset: {FileID: 1789957946532031056} tag: 1789957946532031056}
+GameObject: 1789957946532028811 !!!!  link to missed asset: {FileID: 1789957946532031836} tag: 1789957946532031836}
+GameObject: 1789957946532028593 !!!!  link to missed asset: {FileID: 1789957946532031504} tag: 1789957946532031504}
+GameObject: 1789957946532028500 !!!!  link to missed asset: {FileID: 1789957946532031375} tag: 1789957946532031375}
+GameObject: 1789957946532028981 !!!!  link to missed asset: {FileID: 1789957946532032092} tag: 1789957946532032092}
+GameObject: 1789957946532028770 !!!!  link to missed asset: {FileID: 1789957946532031775} tag: 1789957946532031775}
+GameObject: 1789957946532028579 !!!!  link to missed asset: {FileID: 1789957946532031484} tag: 1789957946532031484}
+GameObject: 1789957946532028310 !!!!  link to missed asset: {FileID: 1789957946532031072} tag: 1789957946532031072}
+GameObject: 1789957946532028365 !!!!  link to missed asset: {FileID: 1789957946532031158} tag: 1789957946532031158}
+GameObject: 1789957946532028662 !!!!  link to missed asset: {FileID: 1789957946532031606} tag: 1789957946532031606}
+GameObject: 1789957946532029163 !!!!  link to missed asset: {FileID: 1789957946532032377} tag: 1789957946532032377}
+GameObject: 1789957946532028481 !!!!  link to missed asset: {FileID: 1789957946532031338} tag: 1789957946532031338}
+GameObject: 1789957946532028601 !!!!  link to missed asset: {FileID: 1789957946532031518} tag: 1789957946532031518}
+GameObject: 1789957946532028988 !!!!  link to missed asset: {FileID: 1789957946532032101} tag: 1789957946532032101}
+GameObject: 1789957946532028493 !!!!  link to missed asset: {FileID: 1789957946532031362} tag: 1789957946532031362}
+GameObject: 1789957946532028348 !!!!  link to missed asset: {FileID: 1789957946532031133} tag: 1789957946532031133}
+GameObject: 1789957946532028632 !!!!  link to missed asset: {FileID: 1789957946532031565} tag: 1789957946532031565}
+GameObject: 1789957946532028362 !!!!  link to missed asset: {FileID: 1789957946532031153} tag: 1789957946532031153}
+GameObject: 1789957946532028789 !!!!  link to missed asset: {FileID: 1789957946532031802} tag: 1789957946532031802}
+GameObject: 1789957946532028835 !!!!  link to missed asset: {FileID: 1789957946532031871} tag: 1789957946532031871}
+GameObject: 1789957946532028332 !!!!  link to missed asset: {FileID: 1789957946532031104} tag: 1789957946532031104}
+GameObject: 1789957946532028901 !!!!  link to missed asset: {FileID: 1789957946532031966} tag: 1789957946532031966}
+GameObject: 1789957946532028597 !!!!  link to missed asset: {FileID: 1789957946532031512} tag: 1789957946532031512}
+GameObject: 1789957946532028479 !!!!  link to missed asset: {FileID: 1789957946532031332} tag: 1789957946532031332}
+GameObject: 1789957946532028871 !!!!  link to missed asset: {FileID: 1789957946532031923} tag: 1789957946532031923}
+GameObject: 1789957946532029145 !!!!  link to missed asset: {FileID: 1789957946532032349} tag: 1789957946532032349}
+GameObject: 1789957946532028898 !!!!  link to missed asset: {FileID: 1789957946532031961} tag: 1789957946532031961}
+GameObject: 1789957946532029002 !!!!  link to missed asset: {FileID: 1789957946532032129} tag: 1789957946532032129}
+GameObject: 1789957946532028302 !!!!  link to missed asset: {FileID: 1789957946532031060} tag: 1789957946532031060}
+GameObject: 1789957946532028645 !!!!  link to missed asset: {FileID: 1789957946532031586} tag: 1789957946532031586}
+GameObject: 1789957946532029125 !!!!  link to missed asset: {FileID: 1789957946532032319} tag: 1789957946532032319}
+GameObject: 1789957946532028927 !!!!  link to missed asset: {FileID: 1789957946532032009} tag: 1789957946532032009}
+GameObject: 1789957946532028731 !!!!  link to missed asset: {FileID: 1789957946532031709} tag: 1789957946532031709}
+GameObject: 1789957946532029174 !!!!  link to missed asset: {FileID: 1789957946532032402} tag: 1789957946532032402}
+GameObject: 1789957946532028569 !!!!  link to missed asset: {FileID: 1789957946532031468} tag: 1789957946532031468}
+GameObject: 1789957946532028355 !!!!  link to missed asset: {FileID: 1789957946532031142} tag: 1789957946532031142}
+GameObject: 1789957946532028561 !!!!  link to missed asset: {FileID: 1789957946532031454} tag: 1789957946532031454}
+GameObject: 1789957946532028618 !!!!  link to missed asset: {FileID: 1789957946532031539} tag: 1789957946532031539}
+GameObject: 1789957946532028507 !!!!  link to missed asset: {FileID: 1789957946532031386} tag: 1789957946532031386}
+GameObject: 1789957946532029141 !!!!  link to missed asset: {FileID: 1789957946532032341} tag: 1789957946532032341}
+GameObject: 1789957946532028673 !!!!  link to missed asset: {FileID: 1789957946532031622} tag: 1789957946532031622}
+GameObject: 1789957946532029072 !!!!  link to missed asset: {FileID: 1789957946532032233} tag: 1789957946532032233}
+GameObject: 1789957946532028393 !!!!  link to missed asset: {FileID: 1789957946532031203} tag: 1789957946532031203}
+GameObject: 1789957946532028343 !!!!  link to missed asset: {FileID: 1789957946532031122} tag: 1789957946532031122}
+GameObject: 1789957946532029157 !!!!  link to missed asset: {FileID: 1789957946532032363} tag: 1789957946532032363}
+GameObject: 1789957946532028784 !!!!  link to missed asset: {FileID: 1789957946532031795} tag: 1789957946532031795}
+GameObject: 1789957946532028722 !!!!  link to missed asset: {FileID: 1789957946532031698} tag: 1789957946532031698}
+GameObject: 1789957946532028498 !!!!  link to missed asset: {FileID: 1789957946532031371} tag: 1789957946532031371}
+GameObject: 1789957946532028282 !!!!  link to missed asset: {FileID: 1789957946532031027} tag: 1789957946532031027}
+GameObject: 1789957946532028402 !!!!  link to missed asset: {FileID: 1789957946532031216} tag: 1789957946532031216}
+GameObject: 1789957946532028346 !!!!  link to missed asset: {FileID: 1789957946532031127} tag: 1789957946532031127}
+GameObject: 1789957946532028692 !!!!  link to missed asset: {FileID: 1789957946532031651} tag: 1789957946532031651}
+GameObject: 1789957946532028892 !!!!  link to missed asset: {FileID: 1789957946532031953} tag: 1789957946532031953}
+GameObject: 1789957946532029022 !!!!  link to missed asset: {FileID: 1789957946532032158} tag: 1789957946532032158}
+GameObject: 1789957946532028758 !!!!  link to missed asset: {FileID: 1789957946532031755} tag: 1789957946532031755}
+GameObject: 1789957946532028269 !!!!  link to missed asset: {FileID: 1789957946532031008} tag: 1789957946532031008}
+GameObject: 1789957946532028958 !!!!  link to missed asset: {FileID: 1789957946532032057} tag: 1789957946532032057}
+GameObject: 1789957946532029003 !!!!  link to missed asset: {FileID: 1789957946532032132} tag: 1789957946532032132}
+GameObject: 1789957946532028993 !!!!  link to missed asset: {FileID: 1789957946532032114} tag: 1789957946532032114}
+GameObject: 1789957946532028289 !!!!  link to missed asset: {FileID: 1789957946532031037} tag: 1789957946532031037}
+GameObject: 1789957946532029144 !!!!  link to missed asset: {FileID: 1789957946532032346} tag: 1789957946532032346}
+GameObject: 1789957946532028715 !!!!  link to missed asset: {FileID: 1789957946532031686} tag: 1789957946532031686}
+GameObject: 1789957946532028568 !!!!  link to missed asset: {FileID: 1789957946532031465} tag: 1789957946532031465}
+GameObject: 1789957946532028361 !!!!  link to missed asset: {FileID: 1789957946532031150} tag: 1789957946532031150}
+GameObject: 1789957946532028883 !!!!  link to missed asset: {FileID: 1789957946532031938} tag: 1789957946532031938}
+GameObject: 1789957946532029057 !!!!  link to missed asset: {FileID: 1789957946532032210} tag: 1789957946532032210}
+GameObject: 1789957946532028739 !!!!  link to missed asset: {FileID: 1789957946532031723} tag: 1789957946532031723}
+Bad links count: 122
+img read old
+img read old
+img read old
+img read old
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Make Script DB
+Make Scripts
+Code decompile: Assembly-CSharp-firstpass.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp-firstpass.dll- prepare classes, count: 78
+Assembly-CSharp-firstpass.dll - decompiled
+Code decompile: Assembly-CSharp.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp.dll
+Find requried fix functions with empty param names, count: 7 (activate with 'Allow to de-obfuscate assembly' options)
+Assembly 'Assembly-CSharp.dll' - obfuscated (for deobfuscate - activate 'Allow to de-obfuscate assembly' options)
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp.dll- prepare classes, count: 261
+Assembly-CSharp.dll - decompiled
+Code decompile: DOTween.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: DOTween.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+DOTween.dll- prepare classes, count: 90
+DOTween.dll - decompiled
+Code decompile: UnityEngine.Advertisements.Android.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.Advertisements.Android.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.Advertisements.Android.dll- prepare classes, count: 59
+UnityEngine.Advertisements.Android.dll - decompiled
+Code decompile: UnityEngine.Analytics.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.Analytics.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.Analytics.dll- prepare classes, count: 20
+UnityEngine.Analytics.dll - decompiled
+Code decompile: UnityEngine.StandardEvents.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.StandardEvents.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.StandardEvents.dll- prepare classes, count: 2
+UnityEngine.StandardEvents.dll - decompiled
+Make plugins
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+Convert UnityAssembly To Plugin: from Assembly-CSharp-firstpass to PluginAs-CSharp-firstpass
+Check for DeObfuscate: Assembly-CSharp.dll
+Find requried fix functions with empty param names, count: 7 (activate with 'Allow to de-obfuscate assembly' options)
+Assembly 'Assembly-CSharp.dll' - obfuscated (for deobfuscate - activate 'Allow to de-obfuscate assembly' options)
+Convert UnityAssembly To Plugin: from Assembly-CSharp to PluginAs-CSharp
+Check for DeObfuscate: DOTween.dll
+Check for DeObfuscate: UnityEngine.Advertisements.Android.dll
+Check for DeObfuscate: UnityEngine.Analytics.dll
+Check for DeObfuscate: UnityEngine.StandardEvents.dll
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: E:\Unity Exported\Bottle Shooting Game
